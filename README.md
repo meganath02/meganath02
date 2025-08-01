@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sudheer
 
-<!--
-**meganath02/meganath02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech student passionate about **Python**, **Machine Learning**, and **Full Stack Development**. I enjoy learning new technologies and building impactful applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- 🐍 **Languages:** Python, Java (Basic), SQL  
+- 🌐 **Web:** HTML, CSS, JavaScript  
+- ⚙️ **Frameworks:** Flask, Streamlit  
+- 🗃️ **Databases:** MySQL, MongoDB  
+- 🧰 **Tools:** VS Code, Jupyter, Git, GitHub, MySQL Workbench
+
+---
+
+
+
+## 📫 Contact
+- 📧 **Email:** `meganathlovasudheer7@gmail.com`  
+- 🔗 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/meganathlovasudheer/)
